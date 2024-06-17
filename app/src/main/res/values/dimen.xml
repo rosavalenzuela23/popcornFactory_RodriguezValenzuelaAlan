@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="paddingButton">25dp</dimen>
+    <dimen name="marginTopRadioGroup">30dp</dimen>
+    <dimen name="hpaddingRadioGroup">10dp</dimen>
+    <dimen name="radioButton">60dp</dimen>
+    <dimen name="radioButtonText">20sp</dimen>
+    <dimen name="radioButtonHorizontalMargin">3dp</dimen>
+    <dimen name="symbols">40dp</dimen>
+
+</resources>

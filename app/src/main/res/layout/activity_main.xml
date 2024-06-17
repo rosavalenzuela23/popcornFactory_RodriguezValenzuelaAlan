@@ -20,12 +20,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:paddingStart="25dp"
+        android:gravity="center"
         android:text="@string/welcome_text"
         android:fontFamily="sans-serif-condensed"
         android:textColor="@color/babygray"
         android:textSize="20sp"
-        android:textAlignment="center"
         />
 
     <Button
